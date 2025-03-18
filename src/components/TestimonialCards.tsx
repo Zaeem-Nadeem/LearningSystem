@@ -13,7 +13,7 @@ interface testimonialPropType {
 
 function MusicSchoolTestimonials() {
   return (
-    <div className="relative flex flex-col items-center justify-center w-full h-auto bg-white dark:bg-black py-12">
+    <div className="relative flex flex-col items-center justify-center w-full h-screen bg-white dark:bg-black py-12">
       {/* Background Grid */}
       <div
         className={cn(
